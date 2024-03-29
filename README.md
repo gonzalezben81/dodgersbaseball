@@ -1,1 +1,3 @@
 # dodgersbaseball
+
+Graduate school project.
